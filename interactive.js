@@ -34,7 +34,7 @@ function badboys() {
 		}
 	]
 	var videoAndTitlePairs = [];
-  newReleases.forEach(function(element){
+  	newReleases.forEach(function(element){
 		videoAndTitlePairs.push({bookmark:element.bookmark})
 	})
 	
